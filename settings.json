@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rodrigoabdo.aternos.me:31477",
+    "ip": "rodrigoabdo.aternos.me",
     "port": 31477,
     "version": "1.20.4"
   },
