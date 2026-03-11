@@ -8,7 +8,7 @@
   "server": {
     "ip": "rodrigoabdo.aternos.me:31477",
     "port": 31477,
-    "version": "1.21.11 "
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
